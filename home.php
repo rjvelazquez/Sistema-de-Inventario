@@ -11,7 +11,7 @@
   <div class="col-md-12">
     <div class="panel">
       <div class="jumbotron text-center" style="background-color: #f8f9fa; padding: 2rem; border-radius: 10px;">
-        <h1 style="color: #007bff; font-weight: bold;">¡Bienvenido a su Sistema de Inventario!</h1>
+        <h2 style="color: #38006b; font-weight: bold;">¡Bienvenido a su Sistema de Inventario!</h2>
         <p style="font-size: 1.2rem; color: #6c757d;">Gestione sus productos, ventas y usuarios de manera eficiente y sencilla.</p>
         <a href="product.php" class="btn btn-primary btn-lg" style="margin: 10px;">Ver Productos</a>
         <a href="sales.php" class="btn btn-success btn-lg" style="margin: 10px;">Registrar Ventas</a>
