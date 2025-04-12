@@ -13,22 +13,12 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker3.min.css" />
     <link rel="stylesheet" href="libs/css/main.css" />
-    <style>
-      #header {
-        background-color: #181818;
-        border-bottom: 3px solid #ff5a5f;
-      }
-      #header .logo,
-      #header .header-content {
-        color: #ffffff;
-      }
-    </style>
   </head>
   <body>
   <?php  if ($session->isUserLoggedIn(true)): ?>
     <header id="header">
       <div class="logo pull-left"> 
-        <img src="uploads/logo.png" alt="Logo" style="height: 50px;">
+        <img src="uploads/logo.png" alt="Logo" style="height: 50px; radius: 50%;">
         Pixventory 
       </div>
       <div class="header-content">
