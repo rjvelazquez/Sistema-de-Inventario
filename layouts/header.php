@@ -18,7 +18,7 @@
   <?php  if ($session->isUserLoggedIn(true)): ?>
     <header id="header">
       <div class="logo pull-left"> 
-        <img src="uploads/logo.png" alt="Logo" style="height: 50px; radius: 50%;">
+        <img src="uploads/logo.png" alt="Logo" style="height: 50px; border-radius: 50%;">
         Pixventory 
       </div>
       <div class="header-content">
