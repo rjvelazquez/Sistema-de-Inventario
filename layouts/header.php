@@ -18,8 +18,10 @@
   <?php  if ($session->isUserLoggedIn(true)): ?>
     <header id="header">
       <div class="logo pull-left"> 
+        <a href="index.php" 
         <img src="uploads/logo.png" alt="Logo" style="height: 50px; border-radius: 50%;">
         Pixventory 
+        </a>
       </div>
       <div class="header-content">
       <div class="header-date pull-left">
