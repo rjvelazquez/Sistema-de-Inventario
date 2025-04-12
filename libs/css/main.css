@@ -308,3 +308,6 @@ input[type=file]{
   width: 125px;
   height: 125px;
 }
+.highlight-text {
+  color: #f7bc0d;
+}

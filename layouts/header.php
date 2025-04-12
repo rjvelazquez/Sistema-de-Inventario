@@ -18,7 +18,7 @@
   <?php  if ($session->isUserLoggedIn(true)): ?>
     <header id="header">
       <div class="logo pull-left"> 
-        <a href="index.php">
+        <a href="index.php" style="color:#f7bc0d;">
           <img src="uploads/logo.png" alt="Logo" style="height: 50px; border-radius: 50%;">
           Pixventory
         </a>
