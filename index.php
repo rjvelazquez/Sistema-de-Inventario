@@ -4,7 +4,7 @@
   if($session->isUserLoggedIn(true)) { redirect('home.php', false);}
 ?>
 <?php include_once('layouts/header.php'); ?>
-<div class="login-page" style="display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f8f9fa;">
+<div class="login-page" style="display: flex; justify-content: center; align-items: center; background-color: #f8f9fa; padding: 2rem;">
     <div style="background: white; padding: 2rem; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 100%; max-width: 400px;">
         <div class="text-center">
            <h1 style="color: #38006b; font-weight: bold;">Bienvenido</h1>
