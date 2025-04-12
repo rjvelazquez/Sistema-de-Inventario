@@ -13,6 +13,7 @@
       <div class="jumbotron text-center" style="background-color: #f8f9fa; padding: 2rem; border-radius: 10px;">
         <h2 style="color: #38006b; font-weight: bold;">¡Bienvenido a su Sistema de Inventario!</h2>
         <p style="font-size: 1.2rem; color: #6c757d;">Gestione sus productos, ventas y usuarios de manera eficiente y sencilla.</p>
+        <a href="admin.php" class="btn btn-warning btn-lg" style="margin: 10px;">Panel de Control</a>
         <a href="product.php" class="btn btn-primary btn-lg" style="margin: 10px;">Ver Productos</a>
         <a href="sales.php" class="btn btn-success btn-lg" style="margin: 10px;">Registrar Ventas</a>
         <a href="users.php" class="btn btn-info btn-lg" style="margin: 10px;">Administrar Usuarios</a>
